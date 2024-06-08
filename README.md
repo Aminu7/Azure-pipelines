@@ -1,3 +1,5 @@
+![image](https://github.com/Aminu7/Azure-pipelines/assets/54637910/41f5975a-a60e-475c-8e5f-7f7e607a98c0)
+
 ![image](https://github.com/Aminu7/Azure-pipelines/assets/54637910/4a3c6c86-0a67-4dc8-9996-34ce9a927206)# Azure-pipelines
 This was created during my exploration of Azure pipelines
 The legendary book used was Chaminda Chandrasekara, Pushpa Herath - Hands-on Azure Pipelines_ Understanding Continuous Integration and Deployment in Azure DevOps (2020, Apress)
